@@ -1,2 +1,8 @@
 dataset link:
 https://www.kaggle.com/datasets/msambare/fer2013
+
+pip install numpy
+pip install opencv-python
+pip install keras
+pip3 install --upgrade tensorflow
+pip install pillow
