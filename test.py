@@ -21,7 +21,7 @@ print("Loaded model from disk")
 #cap = cv2.VideoCapture(0)
 
 # video path
-vid_path = os.path.join(os.getcwd(), "vid.mp4")
+vid_path = os.path.join(os.getcwd(), "vids/omar2.mp4")
 cap = cv2.VideoCapture(vid_path)
 
 while True:
